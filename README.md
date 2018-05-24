@@ -1,2 +1,6 @@
 # JZXC
-2 Juzheng xiangcheng
+用两种算法求逆矩阵：
+1.
+2.
+
+其中，包含一个求矩阵乘法的C文件
